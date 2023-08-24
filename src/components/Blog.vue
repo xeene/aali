@@ -32,9 +32,7 @@
                     ></span
                   >
                   <h3 class="title">
-                    <a href="#">개원위치 분석은 어떻게 하나요?
-개원 기준은 어떻게 되나요?
-</a>
+                    <a href="#">개원위치 분석은 어떻게 하나요? 개원 기준은 어떻게 되나요?</a>
                   </h3>
                   <!-- <span class="date">November 10, 2021</span> -->
                 </div>
@@ -47,10 +45,10 @@
                   <ModalBox :close="close">
                     <div class="news_popup_informations">
                       <div class="image">
-                        <img src="img/thumbs/4-2.jpg" alt="" />
+                        <img src="img/blog/1.jpg" alt="" />
                         <div
                           class="main"
-                          data-img-url="img/news/1.jpg"
+                          data-img-url="img/blog/1.jpg"
                           style="background-image: url('img/blog/1.jpg')"
                         ></div>
                       </div>
@@ -103,8 +101,8 @@
             <li class="wow fadeInRight" data-wow-duration="1s">
               <div class="list_inner">
                 <div class="image">
-                  <img src="img/thumbs/42-29.jpg" alt="" />
-                  <div class="main" data-img-url="img/news/2.jpg"></div>
+                  <img src="img/blog/4.jpg" alt="" />
+                  <div class="main" data-img-url="img/blog/4.jpg"></div>
                   <a
                     class="aali_tm_full_link"
                     href="#"
@@ -134,11 +132,11 @@
                   <ModalBox :close="close">
                     <div class="news_popup_informations">
                       <div class="image">
-                        <img src="img/thumbs/4-2.jpg" alt="" />
+                        <img src="img/blog/4.jpg" alt="" />
                         <div
                           class="main"
-                          data-img-url="img/news/2.jpg"
-                          style="background-image: url('img/news/2.jpg')"
+                          data-img-url="img/blog/4.jpg"
+                          style="background-image: url('img/blog/4.jpg')"
                         ></div>
                       </div>
                       <div class="details">

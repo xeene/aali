@@ -3,7 +3,7 @@
     <div class="mobile_menu_inner">
       <div class="mobile_in">
         <div class="logo">
-          <a href="#"><img src="img/logo/dark.png" alt="" /></a>
+          <a href="#"><img src="img/logo/dark_m.png" alt="" /></a>
         </div>
         <div class="trigger">
           <div

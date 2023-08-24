@@ -68,7 +68,7 @@
           </div>
           <div class="avatar parallax" data-relative-input="true">
             <div class="main">
-              <img src="img/hero/2.png" alt="" class="layer" data-depth="0.1" />
+              <img src="img/hero/home.png" alt="" class="layer" data-depth="0.1" />
             </div>
             <span class="one"
               ><span class="in layer" data-depth="0.14"></span

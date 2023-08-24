@@ -4,8 +4,8 @@
       <div class="about_inner">
         <div class="left">
           <div class="image">
-            <img src="img/thumbs/45-49.jpg" alt="" />
-            <div class="main" data-img-url="img/about/1.jpg"></div>
+            <img src="img/about/1-1.jpg" alt="" />
+            <div class="main" data-img-url="img/about/1-1.jpg"></div>
             <span
               class="square moving_effect"
               data-direction="y"
@@ -59,8 +59,8 @@
         </div>
         <div class="right">
           <div class="image">
-            <img src="img/thumbs/41-61.jpg" alt="" />
-            <div class="main" data-img-url="img/about/2.jpg"></div>
+            <img src="img/about/1-2.jpg" alt="" />
+            <div class="main" data-img-url="img/about/1-2.jpg"></div>
             <div
               class="square moving_effect"
               data-direction="x"

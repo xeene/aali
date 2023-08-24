@@ -1,6 +1,6 @@
 <template>
   <div class="aali_tm_section" id="testimonial">
-    <div class="aali_tm_testimonials">
+    <div class="aali_tm_testimonials helpMob">
       <div class="left">
         <div class="image">
           <img src="img/hero/1.png" alt="" />
