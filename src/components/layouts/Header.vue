@@ -3,10 +3,10 @@
     <div class="container">
       <div class="inner">
         <div class="logo">
-          <a class="light" href="#"><img src="img/logo/dark_m.png" alt="" /></a>
+          <a class="light" href="#"><img src="img/logo/dk_2.png" alt="" /></a>
           <a class="dark" href="#"
             ><img
-              :src="dark ? 'img/logo/logo.png' : 'img/logo/dark_m.png'"
+              :src="dark ? 'img/logo/dk_2.png' : 'img/logo/dk_1.png'"
               alt=""
           /></a>
         </div>

@@ -5,7 +5,7 @@
         <div class="copyright_inner">
           <div class="top">
             <div class="logo">
-              <img src="img/logo/logo.png" alt="" />
+              <img src="img/logo/dk_2.png" alt="" />
             </div>
             <div class="social">
               <span>Connect</span>
