@@ -3787,6 +3787,12 @@ body.intro .loader_line:after {
 		margin-right: -210px;
 	}
 
+	.aali_tm_booster .border {
+		bottom: -167px;
+		margin-right: -210px;
+	}
+
+
 	.aali_tm_service .square_right {
 		width: 110px;
 		height: 170px;
@@ -4047,6 +4053,22 @@ body.intro .loader_line:after {
 		padding-left: 0px;
 	}
 
+	.aali_tm_booster .skills_inner {
+		flex-direction: column;
+		align-items: baseline;
+	}
+
+	.aali_tm_booster .left {
+		width: 100%;
+		padding-right: 0px;
+		margin-bottom: 50px;
+	}
+
+	.aali_tm_booster .right {
+		width: 100%;
+		padding-left: 0px;
+	}
+
 	.aali_tm_main_title h3 {
 		font-size: 30px;
 	}
@@ -4056,6 +4078,10 @@ body.intro .loader_line:after {
 	}
 
 	.aali_tm_skills .border {
+		display: none;
+	}
+
+	.aali_tm_booster .border {
 		display: none;
 	}
 
@@ -4209,6 +4235,12 @@ body.intro .loader_line:after {
 		padding-top: 130px;
 		padding-bottom: 527px;
 	}
+
+	.aali_tm_booster {
+		padding-top: 130px;
+		padding-bottom: 527px;
+	}
+
 
 	.aali_tm_portfolio .portfolio_list ul {
 		margin: 0px;
