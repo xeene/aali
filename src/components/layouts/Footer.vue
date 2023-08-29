@@ -11,13 +11,13 @@
               <span>Connect</span>
               <ul>
                 <li>
-                  <a href="#"><i class="icon-facebook-1"></i></a>
+                  <a href="http://brand.newstarclinic.co.kr/"><i class = "xi-naver xi-x"></i></a>
                 </li>
                 <li>
-                  <a href="#"><i class="icon-twitter-1"></i></a>
+                  <a href="https://www.instagram.com/newstarclinic_official/"><i class="icon-instagram-3"></i></a>
                 </li>
                 <li>
-                  <a href="#"><i class="icon-instagram-3"></i></a>
+                  <a href="#"><i class="icon-youtube-2"></i></a>
                 </li>
               </ul>
             </div>
@@ -39,7 +39,7 @@
               <ul>
                 <li><a class="line_anim" href="#">Terms &amp; Condition</a></li>
                 <li><a class="line_anim" href="#">Privacy Policy</a></li>
-                <li><a class="line_anim" href="#">Support</a></li>
+                <li><a class="line_anim" href="mailto:shiningmt23@naver.com">Support</a></li>
               </ul>
             </div>
           </div>

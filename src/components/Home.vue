@@ -92,10 +92,10 @@
       <div class="socials">
         <ul>
           <li>
-            <a href="#"><i class = "xi-naver xi-x"></i></a>
+            <a href="http://brand.newstarclinic.co.kr/"><i class = "xi-naver xi-x"></i></a>
           </li>
           <li>
-            <a href="#" v-html="insta"></a>
+            <a href="https://www.instagram.com/newstarclinic_official/" v-html="insta"></a>
           </li>
           <li>
             <a href="#" v-html="youtube"> </a>
@@ -103,7 +103,7 @@
         </ul>
       </div>
       <div class="hero_mail">
-        <a class="line_anim" href="#">shiningmt23@naver.com </a>
+        <a class="line_anim" href="mailto:shiningmt23@naver.com">shiningmt23@naver.com</a>
       </div>
     </div>
   </div>

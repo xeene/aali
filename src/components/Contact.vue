@@ -34,7 +34,7 @@
             <div class="fields">
               <form class="contact_form" id="contact_form" @submit.prevent="submitForm">
                 <!-- handSubmit заменила -->
-                <div class="returnmessage" data-success="Your message has been received, We will contact you soon."
+                <div class="returnmessage" data-success="문의는 접수되었습니다! 담당자가 확인 후 연락드리겠습니다."
                   :style="{
                     display: success ? 'block' : 'none',
                   }">
@@ -80,9 +80,9 @@
 </template>
 
 <script>
-const WEB3FORMS_ACCESS_KEY = "d2040331-5103-4575-ad7e-9331a157b0cb";
-//здесь меняется на свой
-//https://web3forms.com/platforms/vue-contact-form
+const WEB3FORMS_ACCESS_KEY = "2011047e-8064-42e8-9298-b0297bcd101b";
+//const WEB3FORMS_ACCESS_KEY = "d2040331-5103-4575-ad7e-9331a157b0cb";
+
 import { call, msg, msgSent } from "./svgImage";
 export default {
   name: "Contact",
@@ -140,7 +140,8 @@ export default {
         const result = await response.json();
         if (result.success) {
           // console.log(result);
-          alert('문의 접수되었습니다!');
+          //alert('문의 접수되었습니다!');
+          this.success = true;
         }
       },
 

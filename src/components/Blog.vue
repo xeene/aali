@@ -8,7 +8,7 @@
           data-color="dark"
         >
           <span>개원진행 Q&A</span>
-          <h3>아름다운 성공을 위해 함께 동행하시겠습니까?
+          <h3>아름다운 성공을 위해<br>함께 동행하시겠습니까?
 </h3>
           <p>Will you accompany us to beautiful success?</p>
         </div>
