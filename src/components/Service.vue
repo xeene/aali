@@ -143,7 +143,7 @@
                   <img class="back" src="img/svg/service.png" alt="" />
                 </span>
                 <div class="title">
-                  <h3>지점 중심의 통합마케팅 지원 및 </h3>
+                  <h3>지점 중심의 통합마케팅 지원 및 운영관리</h3>
                   <!-- <span class="price">Starts from <span>$59</span></span> -->
                 </div>
                 <div class="text">
@@ -253,7 +253,7 @@
                   <img class="back" src="img/svg/service.png" alt="" />
                 </span>
                 <div class="title">
-                  <h3>지점 온라인교육 컨텐츠 확대 및 매뉴얼 </h3>
+                  <h3>지점 온라인교육 컨텐츠 확대 및 메뉴얼 </h3>
                   <!-- <span class="price">Starts from <span>$69</span></span> -->
                 </div>
                 <div class="text">
@@ -360,7 +360,7 @@
                   <img class="back" src="img/svg/service.png" alt="" />
                 </span>
                 <div class="title">
-                  <h3>다양한 뷰티영역의 참여를 통한 동반성장 
+                  <h3>다양한 뷰티영역의<br>참여를 통한 동반성장 
 </h3>
                   <!-- <span class="price">Starts from <span>$79</span></span> -->
                 </div>

@@ -14230,9 +14230,10 @@ xrotate-1
   -ms-transform: rotateX(0deg);
   -o-transform: rotateX(0deg);
   transform: rotateX(0deg);
-  -webkit-animation: cd-rotate-1-in 1.2s;
-  -moz-animation: cd-rotate-1-in 1.2s;
-  animation: cd-rotate-1-in 1.2s;
+  -webkit-animation: cd-rotate-1-in 0.8s;
+  -moz-animation: cd-rotate-1-in 0.8s;
+  animation: cd-rotate-1-in 0.8s;
+  /* везде было 1.2 */
 }
 .cd-headline.rotate-1 b.is-hidden {
   -webkit-transform: rotateX(180deg);
@@ -14240,9 +14241,9 @@ xrotate-1
   -ms-transform: rotateX(180deg);
   -o-transform: rotateX(180deg);
   transform: rotateX(180deg);
-  -webkit-animation: cd-rotate-1-out 1.2s;
-  -moz-animation: cd-rotate-1-out 1.2s;
-  animation: cd-rotate-1-out 1.2s;
+  -webkit-animation: cd-rotate-1-out 0.8s;
+  -moz-animation: cd-rotate-1-out 0.8s;
+  animation: cd-rotate-1-out 0.8s;
 }
 
 @-webkit-keyframes cd-rotate-1-in {

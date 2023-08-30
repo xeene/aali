@@ -25,21 +25,17 @@
           <div class="bottom">
             <div class="left">
               <p>
-                Designed with love by
-                <a
-                  class="line_anim"
-                  href="https://themeforest.net/user/codeefly"
-                  target="_blank"
-                  >Codeefly</a
-                >
+COPYRIGHT
                 &copy; {{ new Date().getFullYear() }}
+                (주)미산 ALL RIGHT RESERVED
               </p>
             </div>
             <div class="right">
               <ul>
-                <li><a class="line_anim" href="#">Terms &amp; Condition</a></li>
-                <li><a class="line_anim" href="#">Privacy Policy</a></li>
-                <li><a class="line_anim" href="mailto:shiningmt23@naver.com">Support</a></li>
+                <li><a class="line_anim" href="http://newstarclinic.co.kr/page/?pid=provision">회원이용약관</a></li>
+                <li><a class="line_anim" href="http://newstarclinic.co.kr/page/?pid=privacy">개인정보처리방침
+</a></li>
+                <li><a class="line_anim" href="http://newstarclinic.co.kr/page/?pid=noemail">이메일무단수집거부</a></li>
               </ul>
             </div>
           </div>

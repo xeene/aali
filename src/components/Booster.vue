@@ -1,5 +1,5 @@
 <template>
-  <div class="aali_tm_section">
+  <div class="aali_tm_section"  id="testimonial">
     <div class="aali_tm_booster">
       <div class="container">
         <div class="skills_inner">
