@@ -92,7 +92,7 @@
       <div class="socials">
         <ul>
           <li>
-            <a href="http://brand.newstarclinic.co.kr/"><i class = "xi-naver xi-x"></i></a>
+            <a href="http://brand.newstarclinic.co.kr/"><img src="img/logo/ns.svg" class = "ns_logo_top"></a>
           </li>
           <li>
             <a href="https://www.instagram.com/newstarclinic_official/" v-html="insta"></a>

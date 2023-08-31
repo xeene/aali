@@ -17,7 +17,7 @@
             <ul>
               <li>
                 <div class="list_inner" v-html="`<span>Call me</span>
-                  <h3>+82-00-000-0000</h3>` + call"></div>
+                  <h3>+82-02-6258-3838</h3>` + call"></div>
               </li>
               <li>
                 <div class="list_inner" v-html="msg +
