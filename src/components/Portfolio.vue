@@ -99,6 +99,10 @@
                 <div :class="`${active === 1 ? '' : 'hidden_content'}`">
                   <ModalBox :close="close">
                     <div class="popup_details">
+                      <div class="image">
+                  <img src="img/portfolio/4.png" alt="" />
+                  <div class="main" data-img-url="img/portfolio/4.png"></div>
+                </div><div><br></div>
                       <div class="top_image">
                         <img src="img/portfolio/popup_1.jpg" alt="" />
                         <div class="main" data-img-url="img/portfolio/popup_1.jpg"
@@ -137,6 +141,12 @@
                 <div :class="`${active === 3 ? '' : 'hidden_content'}`">
                   <ModalBox :close="close">
                     <div class="popup_details">
+                      <div class="image">
+                  <img src="img/portfolio/5.png" alt="" />
+                 
+                  <div class="main" data-img-url="img/portfolio/5.png"></div>
+                
+                </div><div><br></div>
                       <div class="top_image">
                         <img src="img/portfolio/popup_2.jpg" alt="" />
                         <div class="main" data-img-url="img/portfolio/popup_2.jpg"
@@ -172,6 +182,11 @@
                 <div :class="`${active === 2 ? '' : 'hidden_content'}`">
                   <ModalBox :close="close">
                     <div class="popup_details">
+                      <div class="image">
+                  <img src="img/portfolio/6.png" alt="" />
+                  <div class="main" data-img-url="img/portfolio/6.png"></div>
+                </div>
+                <div><br></div>
                       <div class="top_image">
                         <img src="img/portfolio/popup_3.jpg" alt="" />
                         <div class="main" data-img-url="img/portfolio/popup_3.jpg"

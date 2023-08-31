@@ -199,6 +199,10 @@ h6 {
 	display: inline-block;
 }
 
+.ResImage {
+	display: none;
+}
+
 .aali_tm_all_wrap {
 	width: 100%;
 	height: auto;
@@ -4277,6 +4281,15 @@ body.intro .loader_line:after {
 }
 
 @media (max-width: 768px) {
+
+	.reSwiper, .resumeNav {
+		display: none;
+	}
+
+	.ResImage {
+		display: block;
+	}
+	
 
 	.mob_break {
 		display: inline;

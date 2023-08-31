@@ -75,11 +75,10 @@
                     <div :class="`${active === 1 ? '' : 'resume_hidden_details'}`">
                       <ModalBox :close="close">
                         <div class="resume_popup_informations">
-                          <!-- <div class="image">
-                            <img src="img/thumbs/4-2.jpg" alt="" />
-                            <div class="main" data-img-url="img/service/4.jpg"
-                              style="background-image: url('img/service/4.jpg')"></div>
-                          </div> -->
+                           <div class="ResImage">
+                            <img src="img/cv/local.jpg" alt="" /><br><br>
+                            <img src="img/cv/worldwide.jpg" alt="" />
+                          </div>
                           <swiper 
                             class="owl-carousel ul reSwiper"
                             :options="swiperOptions"
