@@ -2378,6 +2378,32 @@ h6 {
 	width: 100%;
 }
 
+.prev_ {
+    position: absolute;
+	z-index: 10;
+    left: 40px;
+    top: 50%;
+    display: block;
+    padding: 0 .3em !important;
+    font-size: 3em;
+    margin: 0;
+    cursor: pointer;
+    color: #a1a1a1;
+    transform: translate(-50%, -50%);
+}
+ .next_ {
+	z-index: 10;
+	position: absolute;
+    right: -23px;
+    top: 50%;
+    display: block ;
+    padding: 0 .3em !important;
+    font-size: 3em ;
+    margin: 0;
+    cursor: pointer;
+    color: #a1a1a1;
+	transform: translate(-50%, -50%);
+ }
 
 /*---------------------------------------------------*/
 /*	10) AALI TESTIMONIALS
@@ -4377,6 +4403,17 @@ body.intro .loader_line:after {
 	.aali_tm_resume .content_inner>ul>li:last-child {
 		margin-bottom: 0px;
 	}
+
+	.prev_ {
+
+		left: 15px;
+		font-size: 2em;
+	}
+	 .next_ {
+
+		right: -28px;
+		font-size: 2em ;
+	 }
 
 	.aali_tm_resume .icon {
 		display: inline-block;

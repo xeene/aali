@@ -96,6 +96,10 @@
                               </div>
                             </swiper-slide>
                           </swiper>
+                          <div class="resumeNav">
+            <a class="prev_" href="#">❮</a>
+            <a class="next_" href="#">❯</a>
+          </div>
                         </div>
                       </ModalBox>
                     </div>
@@ -231,7 +235,10 @@ export default {
         slidesPerView: 1,
         loop: true,
         pagination: false,
-        navigation: false,
+        navigation: {
+          prevEl: ".prev_",
+          nextEl: ".next_",
+        },
         autoplay: true
       },
 
