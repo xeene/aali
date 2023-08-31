@@ -933,6 +933,22 @@ h6 {
 	color: #ea4343;
 }
 
+.address {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0px;
+    font-size: 15px;
+    color: #ffffff90;
+    text-align: right;
+	padding-top: 20px;
+}
+
+.address ul {
+	margin: 0px;
+	list-style-type: none;
+}
+
 .aali_tm_hero .hero_mail {
 	position: absolute;
 	bottom: 40px;
@@ -3092,7 +3108,7 @@ input[type=number] {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	margin-bottom: 112px;
+	margin-bottom: 122px;
 }
 
 .aali_tm_copyright .logo img {

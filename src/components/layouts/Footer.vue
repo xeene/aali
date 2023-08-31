@@ -7,8 +7,8 @@
             <div class="logo">
               <img src="img/logo/dk_2.png" alt="" />
             </div>
-            <div class="social">
-              <span>Connect</span>
+            <div class = "right_top">
+              <div  class="social"><span>Connect</span>
               <ul>
                 <li>
                   <a href="http://brand.newstarclinic.co.kr/"><i class = "xi-naver xi-x"></i></a>
@@ -19,7 +19,16 @@
                 <li>
                   <a href="#"><i class="icon-youtube-2"></i></a>
                 </li>
-              </ul>
+              </ul></div>
+              <div class = "address">
+                <ul>
+                  <li>서울특별시 서초구 강남대로69길 8, 10층 1018호 (서초동, 케이아이타워 (KI타워))</li>
+                  <li>대표: 장수정 | 사업자번호 : 461-81-03045</li>
+                  <li>T. +82-000-0000-0000</li>
+                  <li>E-mail: shiningmt23@naver.com</li>
+                </ul>
+              </div>
+              
             </div>
           </div>
           <div class="bottom">
