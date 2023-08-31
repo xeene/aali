@@ -195,6 +195,10 @@ h6 {
 	display: none;
 }
 
+.pc_break {
+	display: inline-block;
+}
+
 .aali_tm_all_wrap {
 	width: 100%;
 	height: auto;
@@ -4252,6 +4256,13 @@ body.intro .loader_line:after {
 		display: inline;
 	}
 
+	.pc_break {
+		display: none;
+	}
+
+	.bigText h3 {
+		font-size: 23px;
+	}
 	.aali_tm_hero .content .name {
 		font-size: 60px;
 	}
@@ -4420,6 +4431,7 @@ body.intro .loader_line:after {
 
 	.aali_tm_news .news_list ul li .details .title {
 		margin-bottom: 2px;
+		word-break: keep-all;
 	}
 
 	.aali_tm_counter .counter_list ul li {
@@ -4439,7 +4451,7 @@ body.intro .loader_line:after {
 	}
 
 	.aali_tm_contact {
-		padding-top: 130px;
+		padding-top: 0px;
 		padding-bottom: 135px;
 	}
 
