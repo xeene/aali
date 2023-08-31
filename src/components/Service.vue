@@ -143,7 +143,7 @@
                   <img class="back" src="img/svg/service.png" alt="" />
                 </span>
                 <div class="title">
-                  <h3>지점 중심의 통합마케팅 지원 및 운영관리</h3>
+                  <h3>지점 중심의 통합마케팅 <br class  = "mob_break">지원 및 운영관리</h3>
                   <!-- <span class="price">Starts from <span>$59</span></span> -->
                 </div>
                 <div class="text">
@@ -253,7 +253,7 @@
                   <img class="back" src="img/svg/service.png" alt="" />
                 </span>
                 <div class="title">
-                  <h3>지점 온라인교육 컨텐츠 확대 및 메뉴얼 </h3>
+                  <h3>지점 온라인교육 컨텐츠 <br class  = "mob_break">확대 및 메뉴얼 </h3>
                   <!-- <span class="price">Starts from <span>$69</span></span> -->
                 </div>
                 <div class="text">

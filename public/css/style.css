@@ -191,6 +191,10 @@ h6 {
 	font-size: 16px;
 }
 
+.mob_break {
+	display: none;
+}
+
 .aali_tm_all_wrap {
 	width: 100%;
 	height: auto;
@@ -4219,6 +4223,11 @@ body.intro .loader_line:after {
 }
 
 @media (max-width: 768px) {
+
+	.mob_break {
+		display: inline;
+	}
+
 	.aali_tm_hero .content .name {
 		font-size: 60px;
 	}
@@ -4305,6 +4314,10 @@ body.intro .loader_line:after {
 		font-size: 22px;
 	}
 
+	.aali_tm_counter {
+		padding: 65px 0px 65px 0px;
+	}
+	
 	.aali_tm_resume {
 		margin-bottom: 130px;
 	}
